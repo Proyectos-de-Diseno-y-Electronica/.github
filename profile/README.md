@@ -1,6 +1,6 @@
 # Proyectos de Diseño y Electrónica
 
-Esta organización reúne proyectos desarrollados en la Universidad de Costa Rica con fines académicos en las áreas de **sistemas de control**, **electrónica** y **programación aplicada a la ingeniería**. Los proyectos aquí presentados han sido desarrollados de manera colaborativa, con el objetivo de aplicar conceptos teóricos en implementaciones prácticas y simulaciones técnicas.
+Esta organización reúne proyectos desarrollados en la carrera de Ingeniería Eléctrica de la Universidad de Costa Rica con fines académicos en las áreas de **sistemas de control**, **electrónica** y **programación aplicada a la ingeniería**. Los proyectos aquí presentados han sido desarrollados de manera colaborativa, con el objetivo de aplicar conceptos teóricos en implementaciones prácticas y simulaciones técnicas.
 
 El enfoque principal de esta organización es el diseño, análisis y validación de sistemas electrónicos y de control, incluyendo tanto simulaciones como implementaciones físicas.
 
